@@ -6,12 +6,12 @@
 
 ## Installation
 
-1. Simply run this command (require git)
+1. Simply run this command (require git) :
 ```
 git clone https://github.com/loan34k/MusiCLI.git && cd MusiCLI && pip install .
 ```
 
-> For development, you can install it in editable mode:
+> For development, you can install it in editable mode :
 >
 > ```
 > git clone https://github.com/loan34k/MusiCLI.git && cd MusiCLI && pip install -e .
@@ -30,7 +30,7 @@ git clone https://github.com/loan34k/MusiCLI.git && cd MusiCLI && pip install .
 
 ## Usage
 
-After installation, simply run:
+After installation, simply run :
 
 ```
 musicli
