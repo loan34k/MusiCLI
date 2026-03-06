@@ -1,0 +1,3 @@
+yt-dlp>=2023.07.06
+psutil>=5.9.0
+prompt_toolkit>=3.0.0
