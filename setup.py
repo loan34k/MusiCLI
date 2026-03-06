@@ -21,9 +21,10 @@ setup(
     ],
     entry_points={
         "console_scripts": [
-            "musiCLI=musique_cli.cli:main",
+            "MusiCLI=musique_cli.cli:main",
         ],
     },
     python_requires=">=3.8",
 )
+
 
